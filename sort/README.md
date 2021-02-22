@@ -1,8 +1,8 @@
 ### CSC320 Spring 21 Programming Project Sorting
 #### Comparative Study of Sorting Techniques
 
-- Part I due March 4
-- Part II due March 12
+- Part I due Thursday, March 4
+- Part II due Thursday, March 11
 
 <hr>
 
