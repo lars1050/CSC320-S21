@@ -19,7 +19,7 @@ public class Quicksort <T extends Comparable<T>> {
 		int max = 1;
 
     /** Constructor. Initializes metrics to 0. */
-    public Counting() {
+    public Quicksort() {
         startNS = 0;
         endNS = 0;
         operations = 0;
@@ -29,7 +29,7 @@ public class Quicksort <T extends Comparable<T>> {
 		You must put elements into the array that is passed in sorted order.
 		@param inArray array that will contain sorted elements upon fn return.
 		@param m maximum value used to size the histogram (i.e. C array)
-		@param fn hash function applied to T object to determine index
+		@param comparator used for ordering elements
 		*/
 		public void sort(T[] inArray, int m, Comparator<T> comparator ) {
         // initialize everything
