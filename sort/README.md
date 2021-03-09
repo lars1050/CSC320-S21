@@ -2,7 +2,7 @@
 #### Comparative Study of Sorting Techniques
 
 - Part I due Thursday, March 4
-- Part II due Thursday, March 11
+- Part II <del>due Thursday, March 11</del>
 
 <hr>
 
