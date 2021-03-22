@@ -30,7 +30,9 @@ Notice that the list of numbers starts with 0. You can (and should) assume that 
 
 ### CODE
 
-Complete _class SolverDP_. *COMMENTS IN YOUR CODE will be part of assessment. Please add comments.*
+Complete _class SolverDP_. 
+
+**COMMENTS IN YOUR CODE will be part of assessment. Please add comments.**
 
 1. In the file _SolverDP.java_, write an ITERATIVE method `public void solveWithIteration()` that uses dynamic programming to solve the problem.
 
