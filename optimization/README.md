@@ -8,6 +8,8 @@ Requirements
 - PROVIDED: Greedy approach solving summation problem.
 - Report comparing the above techniques.
 
+> COMMENTS in your code will be part of assessment.
+
 <hr>
 
 ## Summation Optimization Problem
