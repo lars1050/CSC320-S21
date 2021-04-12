@@ -62,7 +62,7 @@ Please compare the following algorithms using the specified datasets, as named i
 
 _If there are other experiments that you would rather run, send an email to Dr. Larson with changes that you would make to the above experiments. You can even add a different algorithm (e.g. Insertion Sort) if you want. If approved, you can run your proposed experiments instead._
 
-For #1, you are collecting 2*5*4 data points. For #2, you are collecting 3*5*5 data points. For #3, you are collecting 2*5*1 data points. That's a lot of data!
+For #1, you are collecting 2\*5\*4 data points. For #2, you are collecting 3\*5\*5 data points. For #3, you are collecting 2\*5\*1 data points. That's a lot of data!
 
 To run experiments, I highly recommend that you automate this (i.e. write functions that do batches of experiments) and store the results in a .csv file. To write to the file, it might look something like below. **DO BE CAREFUL WITH YOUR DATA - KEEP A BACKUP, AND MAKE SURE YOU DO NOT OVERWRITE THE FILE.**
 
