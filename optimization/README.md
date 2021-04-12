@@ -1,6 +1,6 @@
 ### Programming Project 2 : Comparative Study of Optimization Paradigms
 
-#### DUE Tuesday April 13 end-of-day
+#### DUE Tuesday April 13 end-of-day (I will accept this up to Tuesday, April 20 without late penalty)
 
 Requirements
 - Recursive dynamic program solving summation problem.
