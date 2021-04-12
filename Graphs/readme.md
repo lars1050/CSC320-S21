@@ -1,5 +1,6 @@
 ### Project 3 : Graphs
-#### Due Friday, April 23 end-of-day
+#### Due Friday, April 23 end-of-day (I will accept this up to Tuesday April 27 end-of-day)
+#### no late penalty on this assignment
 
 <hr>
 
