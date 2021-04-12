@@ -17,5 +17,4 @@ The algorithms can be copied almost exactly as presented in the textbook. The on
 
 6. Add in-line comments to your BFS, DFS, and Dijkstra's algorithms to demonstrate understanding of the logic.
 
-
 The TestGraph.java sets up the mouse-cat-dog problem (graph included). You can check your results against the graph. You will need to create a test graph that is weighted to test Dijkstra's.
